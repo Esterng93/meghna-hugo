@@ -98,7 +98,7 @@ icon = "ti-youtube"
 link = "#"
 [[params.social]]
 icon = "ti-linkedin"
-link = "#"
+link = "#https://www.linkedin.com/in/ester-navarro-inprofile/"
 [[params.social]]
 icon = "ti-dribbble"
 link = "#"
